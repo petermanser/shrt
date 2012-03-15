@@ -12,4 +12,5 @@ or make an alias and it's even shorter:
     http://goo.gl/yRErm
 
 # Requirements
-pip install requests
+
+    pip install requests
